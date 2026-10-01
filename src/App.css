@@ -1,0 +1,15 @@
+.pelicula {
+  max-width: 800px;
+  margin: 30px auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.pelicula img {
+  max-width: 100%;
+  border-radius: 10px;
+}
+
+.pelicula p {
+  line-height: 1.6;
+}
